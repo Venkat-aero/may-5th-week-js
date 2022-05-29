@@ -1,4 +1,4 @@
-let days = 0;
+let days = 1;
 switch (days)
 // for sunday 
 {
